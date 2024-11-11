@@ -8,3 +8,4 @@ o	Set up notifications based on overpass times so that ground stations can be pr
 o	Once you have both ground-based and satellite measurements synchronized, you can integrate them for calibration or data fusion, enhancing the spatial and temporal resolution of your analysis.
 4.	Model Training and Validation:
 o	Use this synchronized dataset to train models that predict surface-level air quality using satellite observations, creating a more robust tool for broader atmospheric studies.
+![User Interface](relative/path/to/your-image.png)
